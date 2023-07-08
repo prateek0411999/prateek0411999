@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prateek Sharma</h1>
-<h3 align="center">A passionate Software Engineer/ Full Stack developer who loves to develop creative application and exploring new technologies.</h3>
+<h3 align="center">A passionate Software Engineer/ Full Stack developer who loves to develop creative application and explore new technologies.</h3>
 
 - 🌱 I’m currently learning **everything**
 

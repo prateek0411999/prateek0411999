@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **prateekshrmprateek@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K6MtDEjDiX9S8xhXY3fx8Q74zwsZGNv-/view?usp=sharing]
-
 - ⚡ Fun fact **I love playing FPS games.**
 
 <h3 align="left">Connect with me:</h3>
